@@ -23,7 +23,6 @@ def descendre_1_marche (step_number_in)
         puts "Tu es nul, mais tu es toujours en bas de l'échelle... Tu y restes !!"
         return step_number_out
     end
-
 end
 
 def bingo   
